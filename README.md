@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there, Fellow Bioinformatics Geeks! 👋
 
 <!--
 **BioCodingStuff/BioCodingStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
